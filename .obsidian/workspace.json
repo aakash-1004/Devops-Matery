@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "f571e4b8e582411a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ade225cb68312d80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b1e19d8e543e835",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps-Mastery/07-CICD/GitHub-Actions-Pipeline.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GitHub-Actions-Pipeline.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71f41eba50d6b75b",
+    "type": "split",
+    "children": [
+      {
+        "id": "51d3182662b55bcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b52952b5c3815d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "95318106b25391aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8631452f64738fb2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 429.5110321044922
+  },
+  "right": {
+    "id": "b46830a02dc1a09f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eae98a06ed0eebe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdc1f8b621fb452a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "6f7328676f0bc898",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "7d9915644368ed6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e3bc80952ba37cc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "09bc73514efbe863",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3b1e19d8e543e835",
+  "lastOpenFiles": [
+    "DevOps-Mastery/05-Kubernetes/K8s-Deployment-Notes.md.md",
+    "DevOps-Mastery/07-CICD/GitHub-Actions-Pipeline.md.md",
+    "DevOps-Mastery/07-CICD/Jenkins-CICD-Notes.md.md",
+    "DevOps-Mastery/01-Linux-Bash/Labs/Health-Check-Script.md.md",
+    "DevOps-Mastery/05-Kubernetes/Kubernetes-Manifests-Lab.md.md",
+    "DevOps-Mastery/05-Kubernetes/Kubernetes-Core-Concepts.md.md",
+    "DevOps-Mastery/02-Python-DevOps/Subprocess.md.md",
+    "DevOps-Mastery/02-Python-DevOps/Requests.md.md",
+    "DevOps-Mastery/02-Python-DevOps/JSON-YAML-Parsing.md.md",
+    "DevOps-Mastery/10-Deployment/Frontend-Backend-Concepts.md.md",
+    "DevOps-Mastery/10-Deployment/Process-Management.md.md",
+    "DevOps-Mastery/10-Deployment/Nginx-Core-Concepts.md.md",
+    "DevOps-Mastery/08-Terraform/Terraform.md.md",
+    "DevOps-Mastery/08-Terraform/Terraform-Core-Concepts.md.md",
+    "DevOps-Mastery/10-Deployment/Deployment-Debugging.md.md",
+    "DevOps-Mastery/10-Deployment/Apache-vs-Nginx.md.md",
+    "DevOps-Mastery/04-Docker/Fullstack-Docker-Project.md.md",
+    "DevOps-Mastery/04-Docker/Docker-Storage.md.md",
+    "DevOps-Mastery/04-Docker/Docker-Images-Containers.md.md",
+    "DevOps-Mastery/06-AWS/AWS-Deployment-Notes.md.md",
+    "DevOps-Mastery/04-Docker/Taskmanager-Docker.md.md",
+    "DevOps-Mastery/10-Deployment/Flask-MongoDB-Project.md.md",
+    "DevOps-Mastery/10-Deployment/Framework-Deployment-Guide.md.md",
+    "Deployment-Debugging.md",
+    "DevOps-Mastery/Untitled.md",
+    "DevOps-Mastery/04-Docker/Docker-Compose-Deep-Dive.md.md",
+    "DevOps-Mastery.zip",
+    "DevOps-Mastery/10-Deployment",
+    "Untitled.canvas",
+    "06-AWS",
+    "02-Python-DevOps/Labs",
+    "02-Python-DevOps",
+    "04-Docker/Labs",
+    "04-Docker",
+    "01-Linux-Bash",
+    "DevOps-Mastery/09-Monitoring/Labs",
+    "DevOps-Mastery/09-Monitoring",
+    "DevOps-Mastery/01-Linux-Bash/Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas"
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "de0276ae1e898a27",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e514059afa4382f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365be5945c9e571e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps-Mastery/07-CICD/07-CICD-ArgoCD.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07-CICD-ArgoCD.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1b4b99b951d6159",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d5ecf3b6bb94af9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9f196ef10ca7a51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e516253954e3f634",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d237db790dbc96bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.50152587890625
+  },
+  "right": {
+    "id": "af774982a2b79199",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2bf9049917e065d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db382342ff8cdbbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 1"
+            }
+          },
+          {
+            "id": "d00d5173011d56f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 1"
+            }
+          },
+          {
+            "id": "1be36a57d6cc8997",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b9744f96d05e679f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "340b5468d9f4ab03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "365be5945c9e571e",
+  "lastOpenFiles": [
+    "DevOps-Mastery/05-Kubernetes/05-Helm.md.md",
+    "DevOps-Mastery/07-CICD/07-CICD-ArgoCD.md.md",
+    "DevOps-Mastery/05-Kubernetes/Kubernetes-Manifests-Lab.md.md",
+    "DevOps-Mastery/05-Kubernetes/Kubernetes-Core-Concepts.md.md",
+    "DevOps-Mastery/10-Deployment/Framework-Deployment-Guide.md.md",
+    "DevOps-Mastery/10-Deployment/Flask-MongoDB-Project.md.md",
+    "DevOps-Mastery/10-Deployment/Deployment-Debugging.md.md",
+    "DevOps-Mastery/10-Deployment/Process-Management.md.md",
+    "DevOps-Mastery/07-CICD/GitHub-Actions-Pipeline.md.md",
+    "DevOps-Mastery/DevOps-Mastery/07-CICD/GitHub-Actions.md.md",
+    "DevOps-Mastery/10-Deployment/Nginx-Core-Concepts.md.md",
+    "DevOps-Mastery/10-Deployment/Frontend-Backend-Concepts.md.md",
+    "DevOps-Mastery/10-Deployment/Apache-vs-Nginx.md.md",
+    "DevOps-Mastery/10-Deployment",
+    "DevOps-Mastery/09-Monitoring/Labs/Monitoring-Lab.md.md",
+    "DevOps-Mastery/09-Monitoring/Labs",
+    "DevOps-Mastery/09-Monitoring/Prometheus-Grafana.md.md",
+    "DevOps-Mastery/09-Monitoring",
+    "DevOps-Mastery/08-Terraform/Labs/Terraform-AWS-Lab.md.md",
+    "DevOps-Mastery/08-Terraform/Terraform.md.md",
+    "DevOps-Mastery/08-Terraform/Terraform-Core-Concepts.md.md",
+    "DevOps-Mastery/08-Terraform/Labs",
+    "DevOps-Mastery/08-Terraform",
+    "DevOps-Mastery/07-CICD/Labs/Taskmanager-CICD-Lab.md.md",
+    "DevOps-Mastery/07-CICD/Labs",
+    "DevOps-Mastery/07-CICD/Jenkins-CICD-Notes.md.md",
+    "DevOps-Mastery/07-CICD/GitHub-Actions.md.md",
+    "DevOps-Mastery/07-CICD",
+    "DevOps-Mastery/06-AWS/Labs/EC2-Deployment-Lab.md.md",
+    "DevOps-Mastery/06-AWS/Labs",
+    "DevOps-Mastery/06-AWS/AWS-Deployment-Notes.md.md",
+    "DevOps-Mastery/06-AWS/AWS-Core-Services.md.md",
+    "DevOps-Mastery/06-AWS",
+    "DevOps-Mastery/05-Kubernetes/K8s-Deployment-Notes.md.md",
+    "DevOps-Mastery/05-Kubernetes",
+    "DevOps-Mastery/04-Docker/Taskmanager-Docker.md.md"
+  ]
+}

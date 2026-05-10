@@ -22,15 +22,16 @@ GitHub Actions is a CI/CD platform built directly into GitHub. You define pipeli
 
 ## Jenkins → GitHub Actions Mental Map
 
-|Jenkins Concept|GitHub Actions Equivalent|
-|---|---|
-|`Jenkinsfile`|`.github/workflows/pipeline.yml`|
-|Stage|`job`|
-|Step|`step`|
-|Agent|`runner` (e.g. `ubuntu-latest`)|
-|Credentials store|`Secrets` (repo Settings)|
-|Webhook trigger|`on: push`|
-|Pipeline library|`uses:` (reusable Actions)|
+| Jenkins Concept   | GitHub Actions Equivalent        |
+| ----------------- | -------------------------------- |
+| `Jenkinsfile`     | `.github/workflows/pipeline.yml` |
+| Stage             | `job`                            |
+| Step              | `step`                           |
+| Agent             | `runner` (e.g. `ubuntu-latest`)  |
+| Credentials store | `Secrets` (repo Settings)        |
+| Webhook trigger   | `on: push`                       |
+| Pipeline library  | `uses:` (reusable Actions)       |
+|                   |                                  |
 
 ---
 

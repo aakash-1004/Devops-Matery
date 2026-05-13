@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "de0276ae1e898a27",
+    "id": "f571e4b8e582411a",
     "type": "split",
     "children": [
       {
-        "id": "5e514059afa4382f",
+        "id": "ade225cb68312d80",
         "type": "tabs",
         "children": [
           {
-            "id": "365be5945c9e571e",
+            "id": "3b1e19d8e543e835",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Mastery/07-CICD/07-CICD-ArgoCD.md.md",
+                "file": "DevOps-Mastery/01-Linux-Bash/04-Linux-Core-Concepts.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07-CICD-ArgoCD.md"
+              "title": "04-Linux-Core-Concepts.md"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b1b4b99b951d6159",
+    "id": "71f41eba50d6b75b",
     "type": "split",
     "children": [
       {
-        "id": "9d5ecf3b6bb94af9",
+        "id": "51d3182662b55bcb",
         "type": "tabs",
         "children": [
           {
-            "id": "e9f196ef10ca7a51",
+            "id": "1b52952b5c3815d1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "e516253954e3f634",
+            "id": "95318106b25391aa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "d237db790dbc96bb",
+            "id": "8631452f64738fb2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.50152587890625
+    "width": 429.5110321044922
   },
   "right": {
-    "id": "af774982a2b79199",
+    "id": "b46830a02dc1a09f",
     "type": "split",
     "children": [
       {
-        "id": "d2bf9049917e065d",
+        "id": "eae98a06ed0eebe2",
         "type": "tabs",
         "children": [
           {
-            "id": "db382342ff8cdbbc",
+            "id": "cdc1f8b621fb452a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for Untitled"
             }
           },
           {
-            "id": "d00d5173011d56f0",
+            "id": "6f7328676f0bc898",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 1"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
-            "id": "1be36a57d6cc8997",
+            "id": "7d9915644368ed6c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "b9744f96d05e679f",
+            "id": "1e3bc80952ba37cc",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "340b5468d9f4ab03",
+            "id": "09bc73514efbe863",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -183,43 +183,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "365be5945c9e571e",
+  "active": "3b1e19d8e543e835",
   "lastOpenFiles": [
-    "DevOps-Mastery/05-Kubernetes/Kubernetes-Manifests-Lab.md",
-    "DevOps-Mastery/05-Kubernetes/Kubernetes-Core-Concepts.md",
-    "DevOps-Mastery/05-Kubernetes/K8s-Deployment-Notes.md",
-    "DevOps-Mastery/05-Kubernetes/05-Helm.md",
-    "DevOps-Mastery/04-Docker/Taskmanager-Docker.md",
-    "DevOps-Mastery/04-Docker/Fullstack-Docker-Project.md",
-    "DevOps-Mastery/04-Docker/Docker-Storage.md",
-    "DevOps-Mastery/04-Docker/Docker-Networking-Deep-Dive.md",
-    "DevOps-Mastery/04-Docker/Docker-Interview-QA.md",
-    "DevOps-Mastery/04-Docker/Docker-Images-Containers.md",
-    "DevOps-Mastery/04-Docker/Docker-Dockerfile-Reference.md",
-    "DevOps-Mastery/04-Docker/Docker-Core-Concepts.md",
-    "DevOps-Mastery/04-Docker/Docker-Compose.md",
+    "DevOps-Mastery/01-Linux-Bash/05-Linux-Networking-Commands.md.md",
+    "DevOps-Mastery/01-Linux-Bash/06-Shell-Scripting.md.md",
+    "DevOps-Mastery/01-Linux-Bash/07-Linux-Performance-Troubleshooting.md.md",
+    "DevOps-Mastery/01-Linux-Bash/04-Linux-Core-Concepts.md.md",
+    "DevOps-Mastery/00-Fundamentals/00-What-is-DevOps.md.md",
+    "DevOps-Mastery/00-Fundamentals/01-SDLC.md.md",
+    "DevOps-Mastery/00-Fundamentals/02-Virtual-Machines.md.md",
+    "DevOps-Mastery/00-Fundamentals/03-Cloud-Provisioning.md.md",
+    "DevOps-Mastery/10-Deployment/Apache-vs-Nginx.md",
+    "DevOps-Mastery/00-Fundamentals",
+    "DevOps-Mastery/07-CICD/07-CICD-ArgoCD.md",
+    "DevOps-Mastery/10-Deployment/Nginx-Core-Concepts.md",
+    "DevOps-Mastery/10-Deployment/Frontend-Backend-Concepts.md",
+    "DevOps-Mastery/10-Deployment/Framework-Deployment-Guide.md",
+    "DevOps-Mastery/10-Deployment/Flask-MongoDB-Project.md",
+    "DevOps-Mastery/10-Deployment/Deployment-Debugging.md",
     "DevOps-Mastery/04-Docker/Docker-Compose-Deep-Dive.md",
+    "DevOps-Mastery/04-Docker/Docker-Core-Concepts.md",
     "DevOps-Mastery/04-Docker/Docker-Architecture.md",
-    "DevOps-Mastery/03-Git/Git-Workflow.md",
-    "DevOps-Mastery/02-Python-DevOps/Labs/Python-DevOps-Scripts.md",
-    "DevOps-Mastery/02-Python-DevOps/Labs/Flask-MongoDB-API.md",
-    "DevOps-Mastery/02-Python-DevOps/Subprocess.md",
-    "DevOps-Mastery/02-Python-DevOps/Requests.md",
-    "DevOps-Mastery/02-Python-DevOps/JSON-YAML-Parsing.md",
-    "DevOps-Mastery/01-Linux-Bash/Labs/Health-Check-Script.md",
-    "DevOps-Mastery/01-Linux-Bash/Logging-Trap-Lock-Files.md",
-    "DevOps-Mastery/01-Linux-Bash/Log-parsing.md",
-    "DevOps-Mastery/01-Linux-Bash/Cron-Jobs.md",
-    "DevOps-Mastery/01-Linux-Bash/Bash-Strict-Mode.md",
+    "DevOps-Mastery/04-Docker/Docker-Storage.md",
+    "DevOps-Mastery/10-Deployment/Process-Management.md",
+    "DevOps-Mastery/09-Monitoring/Prometheus-Grafana.md",
+    "DevOps-Mastery/09-Monitoring/Labs/Monitoring-Lab.md",
+    "DevOps-Mastery/08-Terraform/Terraform.md",
+    "DevOps-Mastery/08-Terraform/Terraform-Core-Concepts.md",
+    "DevOps-Mastery/08-Terraform/Labs/Terraform-AWS-Lab.md",
+    "DevOps-Mastery/07-CICD/Labs/Taskmanager-CICD-Lab.md",
+    "DevOps-Mastery.zip",
     "DevOps-Mastery/10-Deployment",
+    "Untitled.canvas",
+    "06-AWS",
+    "02-Python-DevOps/Labs",
+    "02-Python-DevOps",
+    "04-Docker/Labs",
+    "04-Docker",
+    "01-Linux-Bash",
     "DevOps-Mastery/09-Monitoring/Labs",
-    "DevOps-Mastery/09-Monitoring",
-    "DevOps-Mastery/08-Terraform/Labs",
-    "DevOps-Mastery/08-Terraform",
-    "DevOps-Mastery/07-CICD/Labs",
-    "DevOps-Mastery/07-CICD",
-    "DevOps-Mastery/06-AWS/Labs",
-    "DevOps-Mastery/06-AWS",
-    "DevOps-Mastery/05-Kubernetes"
+    "DevOps-Mastery/01-Linux-Bash/Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas"
   ]
 }

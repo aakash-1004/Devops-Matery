@@ -347,13 +347,13 @@ sudo lsof -i :80
 
 ## Common Errors
 
-| Error | Meaning | Fix |
-|-------|---------|-----|
-| 502 Bad Gateway | Nginx can't reach your app | App process not running — check `pm2 list`, `systemctl status`, `curl localhost:PORT` |
-| 504 Gateway Timeout | App running but too slow/hung | Check app logs, DB connection, memory usage |
-| 403 Forbidden | Nginx can't read files | `sudo chown -R www-data /var/www/html/myapp` |
-| 404 Not Found | File/route not found | Check `root` path, add `try_files` for SPA |
-| Port 80 already in use | Another process on port 80 | `sudo lsof -i :80` to find and stop it |
+| Error                  | Meaning                       | Fix                                                                                   |
+| ---------------------- | ----------------------------- | ------------------------------------------------------------------------------------- |
+| 502 Bad Gateway        | Nginx can't reach your app    | App process not running — check `pm2 list`, `systemctl status`, `curl localhost:PORT` |
+| 504 Gateway Timeout    | App running but too slow/hung | Check app logs, DB connection, memory usage                                           |
+| 403 Forbidden          | Nginx can't read files        | `sudo chown -R www-data /var/www/html/myapp`                                          |
+| 404 Not Found          | File/route not found          | Check `root` path, add `try_files` for SPA                                            |
+| Port 80 already in use | Another process on port 80    | `sudo lsof -i :80` to find and stop it                                                |
 
 ---
 

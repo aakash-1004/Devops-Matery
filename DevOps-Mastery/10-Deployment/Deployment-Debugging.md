@@ -50,18 +50,18 @@ When you see an error, start at the layer closest to the user (top) and work you
 
 HTTP status codes are your first clue about which layer is failing. You must know these cold.
 
-| Code | Name | What It Means in Deployment |
-|------|------|---------------------------|
-| **200** | OK | Everything working |
-| **301/302** | Redirect | HTTP → HTTPS redirect, or URL changed |
-| **400** | Bad Request | Client sent a malformed request |
-| **401** | Unauthorized | Missing or invalid authentication credentials |
-| **403** | Forbidden | Authenticated but not authorized, or file permissions |
-| **404** | Not Found | Route doesn't exist, or wrong `root` path in Nginx |
-| **500** | Internal Server Error | Bug in your application code |
-| **502** | Bad Gateway | **Nginx running, app not running or not reachable** |
-| **503** | Service Unavailable | App overloaded or temporarily down |
-| **504** | Gateway Timeout | App running but taking too long to respond |
+| Code        | Name                  | What It Means in Deployment                           |
+| ----------- | --------------------- | ----------------------------------------------------- |
+| **200**     | OK                    | Everything working                                    |
+| **301/302** | Redirect              | HTTP → HTTPS redirect, or URL changed                 |
+| **400**     | Bad Request           | Client sent a malformed request                       |
+| **401**     | Unauthorized          | Missing or invalid authentication credentials         |
+| **403**     | Forbidden             | Authenticated but not authorized, or file permissions |
+| **404**     | Not Found             | Route doesn't exist, or wrong `root` path in Nginx    |
+| **500**     | Internal Server Error | Bug in your application code                          |
+| **502**     | Bad Gateway           | **Nginx running, app not running or not reachable**   |
+| **503**     | Service Unavailable   | App overloaded or temporarily down                    |
+| **504**     | Gateway Timeout       | App running but taking too long to respond            |
 
 **502 is the most important to understand.** It means: "I (Nginx) got your request, but when I tried to forward it to the app, I couldn't reach it." This immediately tells you the problem is in the app layer, not Nginx.
 

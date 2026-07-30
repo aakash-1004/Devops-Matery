@@ -124,7 +124,7 @@ Each VM is fully isolated. A crash or compromise in one VM does not affect other
 
 ## Wikilinks
 
-- [[What-is-DevOps]]
+- [[Azure Mastery]]
 - [[Docker-Architecture]]
 - [[Kubernetes-Architecture]]
 - [[AWS-EC2]]

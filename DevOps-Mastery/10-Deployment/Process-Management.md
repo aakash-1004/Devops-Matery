@@ -51,11 +51,11 @@ The same happens if your app crashes — a bug, an out-of-memory condition, an u
 
 ## Three Tools, Three Use Cases
 
-| Tool | Use Case | Runtime |
-|------|---------|---------|
-| **PM2** | Node.js apps | JavaScript/Node.js |
-| **Gunicorn** | Python WSGI apps | Python (Flask, Django) |
-| **systemd** | Any app (production standard) | Any runtime |
+| Tool         | Use Case                      | Runtime                |
+| ------------ | ----------------------------- | ---------------------- |
+| **PM2**      | Node.js apps                  | JavaScript/Node.js     |
+| **Gunicorn** | Python WSGI apps              | Python (Flask, Django) |
+| **systemd**  | Any app (production standard) | Any runtime            |
 
 ---
 

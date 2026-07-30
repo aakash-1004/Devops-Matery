@@ -19,15 +19,15 @@ export DB_HOST="localhost"   # environment variable (available to child processe
 
 ## Special Variables
 
-|Variable|Meaning|
-|---|---|
-|`$0`|Script name|
-|`$1 $2`|Positional arguments|
-|`$#`|Number of arguments|
-|`$@`|All arguments (preserves boundaries)|
-|`$?`|Exit code of last command (0 = success)|
-|`$$`|PID of current script|
-|`$!`|PID of last background process|
+| Variable | Meaning                                 |
+| -------- | --------------------------------------- |
+| `$0`     | Script name                             |
+| `$1 $2`  | Positional arguments                    |
+| `$#`     | Number of arguments                     |
+| `$@`     | All arguments (preserves boundaries)    |
+| `$?`     | Exit code of last command (0 = success) |
+| `$$`     | PID of current script                   |
+| `$!`     | PID of last background process          |
 
 ```bash
 #!/bin/bash
@@ -54,18 +54,18 @@ fi
 
 ### Comparison Operators
 
-|Operator|Meaning|
-|---|---|
-|`-eq`|Equal|
-|`-ne`|Not equal|
-|`-gt`|Greater than|
-|`-lt`|Less than|
-|`-ge`|Greater or equal|
-|`-le`|Less or equal|
-|`-z`|String is empty|
-|`-n`|String is not empty|
-|`-f`|File exists and is a file|
-|`-d`|Directory exists|
+| Operator | Meaning                   |
+| -------- | ------------------------- |
+| `-eq`    | Equal                     |
+| `-ne`    | Not equal                 |
+| `-gt`    | Greater than              |
+| `-lt`    | Less than                 |
+| `-ge`    | Greater or equal          |
+| `-le`    | Less or equal             |
+| `-z`     | String is empty           |
+| `-n`     | String is not empty       |
+| `-f`     | File exists and is a file |
+| `-d`     | Directory exists          |
 
 ---
 

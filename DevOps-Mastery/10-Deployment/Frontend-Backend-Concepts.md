@@ -83,15 +83,15 @@ You write code in a LANGUAGE
 
 ### Real Examples
 
-|Language|Runtime|Frameworks|
-|---|---|---|
-|JavaScript|Node.js|Express, NestJS, React, Vue, Next.js|
-|TypeScript|Node.js (TS compiles to JS first)|NestJS, Next.js, Angular|
-|Python|Python 3 interpreter|Flask, Django, FastAPI|
-|Java|JVM|Spring Boot|
-|PHP|PHP interpreter + PHP-FPM|Laravel, Symfony|
-|Go|None (compiled binary)|Gin, Fiber, Echo|
-|Ruby|Ruby interpreter|Rails, Sinatra|
+| Language   | Runtime                           | Frameworks                           |
+| ---------- | --------------------------------- | ------------------------------------ |
+| JavaScript | Node.js                           | Express, NestJS, React, Vue, Next.js |
+| TypeScript | Node.js (TS compiles to JS first) | NestJS, Next.js, Angular             |
+| Python     | Python 3 interpreter              | Flask, Django, FastAPI               |
+| Java       | JVM                               | Spring Boot                          |
+| PHP        | PHP interpreter + PHP-FPM         | Laravel, Symfony                     |
+| Go         | None (compiled binary)            | Gin, Fiber, Echo                     |
+| Ruby       | Ruby interpreter                  | Rails, Sinatra                       |
 
 > **TypeScript note:** TypeScript has no runtime of its own. It compiles to JavaScript, then Node.js runs it. TypeScript only exists at dev/build time.
 
@@ -186,30 +186,30 @@ Frontend validation = user experience (instant feedback) Backend validation = ac
 
 ### Backend Languages
 
-|Language|Runtime|Notes|
-|---|---|---|
-|JavaScript|Node.js|Same language as frontend, non-blocking I/O, great for high concurrency|
-|Python|Python 3|ML/AI dominant, clean syntax, massive ecosystem|
-|Java|JVM|Enterprise standard, banks/insurance run Spring Boot|
-|Go|Binary|Fast, low memory, written by Google, DevOps tooling (Docker, K8s, Terraform are Go)|
-|PHP|PHP-FPM|Powers ~43% of web (WordPress), Laravel is modern PHP|
-|Ruby|Ruby|Rails popularized "convention over configuration"|
-|C#|.NET|Microsoft ecosystem, enterprise Windows environments|
-|Rust|Binary|Memory-safe, extreme performance, growing in critical services|
+| Language   | Runtime  | Notes                                                                               |
+| ---------- | -------- | ----------------------------------------------------------------------------------- |
+| JavaScript | Node.js  | Same language as frontend, non-blocking I/O, great for high concurrency             |
+| Python     | Python 3 | ML/AI dominant, clean syntax, massive ecosystem                                     |
+| Java       | JVM      | Enterprise standard, banks/insurance run Spring Boot                                |
+| Go         | Binary   | Fast, low memory, written by Google, DevOps tooling (Docker, K8s, Terraform are Go) |
+| PHP        | PHP-FPM  | Powers ~43% of web (WordPress), Laravel is modern PHP                               |
+| Ruby       | Ruby     | Rails popularized "convention over configuration"                                   |
+| C#         | .NET     | Microsoft ecosystem, enterprise Windows environments                                |
+| Rust       | Binary   | Memory-safe, extreme performance, growing in critical services                      |
 
 ### Backend Frameworks
 
-|Framework|Language|Notes|
-|---|---|---|
-|Express|Node.js|Minimal, most widely used, you add what you need|
-|NestJS|Node.js/TS|Structured, opinionated, Angular-like architecture|
-|Fastify|Node.js|Performance-focused Express alternative|
-|Flask|Python|Minimal, you control everything, great for APIs/ML|
-|Django|Python|Batteries-included: ORM, admin, auth, forms all built in|
-|FastAPI|Python|Modern, fast, auto API docs, ideal for ML services|
-|Spring Boot|Java|Enterprise standard, massive ecosystem|
-|Laravel|PHP|Modern PHP, Eloquent ORM, Artisan CLI|
-|Gin / Fiber / Echo|Go|All lightweight, all extremely fast|
+| Framework          | Language   | Notes                                                    |
+| ------------------ | ---------- | -------------------------------------------------------- |
+| Express            | Node.js    | Minimal, most widely used, you add what you need         |
+| NestJS             | Node.js/TS | Structured, opinionated, Angular-like architecture       |
+| Fastify            | Node.js    | Performance-focused Express alternative                  |
+| Flask              | Python     | Minimal, you control everything, great for APIs/ML       |
+| Django             | Python     | Batteries-included: ORM, admin, auth, forms all built in |
+| FastAPI            | Python     | Modern, fast, auto API docs, ideal for ML services       |
+| Spring Boot        | Java       | Enterprise standard, massive ecosystem                   |
+| Laravel            | PHP        | Modern PHP, Eloquent ORM, Artisan CLI                    |
+| Gin / Fiber / Echo | Go         | All lightweight, all extremely fast                      |
 
 ---
 
@@ -260,13 +260,13 @@ Frontend:  DELETE /api/users/1      → delete user 1
 
 ### HTTP Methods
 
-|Method|Purpose|
-|---|---|
-|GET|Read / fetch data|
-|POST|Create new data|
-|PUT|Replace existing data entirely|
-|PATCH|Update part of existing data|
-|DELETE|Remove data|
+| Method | Purpose                        |
+| ------ | ------------------------------ |
+| GET    | Read / fetch data              |
+| POST   | Create new data                |
+| PUT    | Replace existing data entirely |
+| PATCH  | Update part of existing data   |
+| DELETE | Remove data                    |
 
 ### JSON
 

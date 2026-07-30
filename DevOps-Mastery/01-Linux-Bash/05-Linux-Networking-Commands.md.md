@@ -35,13 +35,13 @@ netstat -an | grep :8080  # check if port 8080 is in use
 
 **Flags breakdown:**
 
-|Flag|Meaning|
-|---|---|
-|`-t`|TCP connections|
-|`-u`|UDP connections|
-|`-l`|Listening sockets only|
-|`-n`|Numeric (don't resolve hostnames)|
-|`-p`|Show process name and PID|
+| Flag | Meaning                           |
+| ---- | --------------------------------- |
+| `-t` | TCP connections                   |
+| `-u` | UDP connections                   |
+| `-l` | Listening sockets only            |
+| `-n` | Numeric (don't resolve hostnames) |
+| `-p` | Show process name and PID         |
 
 **Real world:** First thing to check when a service isn't responding — is it actually listening on the expected port?
 
@@ -61,23 +61,23 @@ iptables-save > /etc/iptables.rules                  # persist rules
 
 ### All Flags Explained
 
-|Flag|Full Form|Meaning|
-|---|---|---|
-|`-A`|Append|Add rule to **end** of chain|
-|`-I`|Insert|Add rule to **top** of chain|
-|`-D`|Delete|Remove matching rule|
-|`-L`|List|List all rules|
-|`-F`|Flush|Delete all rules in chain|
-|`-p`|Protocol|`tcp`, `udp`, `icmp`, `all`|
-|`--dport`|Destination Port|Port traffic is going **to**|
-|`--sport`|Source Port|Port traffic is coming **from**|
-|`-j`|Jump|**Action** to take when rule matches|
-|`-n`|Numeric|Show IPs/ports as numbers|
-|`-v`|Verbose|Show packet/byte counts|
-|`-s`|Source|Match traffic from specific IP|
-|`-d`|Destination|Match traffic to specific IP|
-|`-i`|In-interface|Traffic coming in on specific interface|
-|`-o`|Out-interface|Traffic going out on specific interface|
+| Flag      | Full Form        | Meaning                                 |
+| --------- | ---------------- | --------------------------------------- |
+| `-A`      | Append           | Add rule to **end** of chain            |
+| `-I`      | Insert           | Add rule to **top** of chain            |
+| `-D`      | Delete           | Remove matching rule                    |
+| `-L`      | List             | List all rules                          |
+| `-F`      | Flush            | Delete all rules in chain               |
+| `-p`      | Protocol         | `tcp`, `udp`, `icmp`, `all`             |
+| `--dport` | Destination Port | Port traffic is going **to**            |
+| `--sport` | Source Port      | Port traffic is coming **from**         |
+| `-j`      | Jump             | **Action** to take when rule matches    |
+| `-n`      | Numeric          | Show IPs/ports as numbers               |
+| `-v`      | Verbose          | Show packet/byte counts                 |
+| `-s`      | Source           | Match traffic from specific IP          |
+| `-d`      | Destination      | Match traffic to specific IP            |
+| `-i`      | In-interface     | Traffic coming in on specific interface |
+| `-o`      | Out-interface    | Traffic going out on specific interface |
 
 ### The `-j` Jump Target Values
 

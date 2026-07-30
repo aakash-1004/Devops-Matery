@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ade225cb68312d80",
+        "id": "f7524caeeb9f5d85",
         "type": "tabs",
         "children": [
           {
-            "id": "3b1e19d8e543e835",
+            "id": "283ca20b1fbb4af4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Mastery/01-Linux-Bash/04-Linux-Core-Concepts.md.md",
-                "mode": "source",
+                "file": "DevOps-Mastery/05-Kubernetes/EKS-Fargate-IRSA-ALB-Project.md.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-Linux-Core-Concepts.md"
+              "title": "EKS-Fargate-IRSA-ALB-Project.md"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5110321044922
+    "width": 287.5026054382324
   },
   "right": {
     "id": "b46830a02dc1a09f",
@@ -183,35 +183,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "3b1e19d8e543e835",
+  "active": "283ca20b1fbb4af4",
   "lastOpenFiles": [
-    "DevOps-Mastery/01-Linux-Bash/05-Linux-Networking-Commands.md.md",
-    "DevOps-Mastery/01-Linux-Bash/06-Shell-Scripting.md.md",
-    "DevOps-Mastery/01-Linux-Bash/07-Linux-Performance-Troubleshooting.md.md",
-    "DevOps-Mastery/01-Linux-Bash/04-Linux-Core-Concepts.md.md",
-    "DevOps-Mastery/00-Fundamentals/00-What-is-DevOps.md.md",
-    "DevOps-Mastery/00-Fundamentals/01-SDLC.md.md",
-    "DevOps-Mastery/00-Fundamentals/02-Virtual-Machines.md.md",
-    "DevOps-Mastery/00-Fundamentals/03-Cloud-Provisioning.md.md",
-    "DevOps-Mastery/10-Deployment/Apache-vs-Nginx.md",
-    "DevOps-Mastery/00-Fundamentals",
-    "DevOps-Mastery/07-CICD/07-CICD-ArgoCD.md",
-    "DevOps-Mastery/10-Deployment/Nginx-Core-Concepts.md",
-    "DevOps-Mastery/10-Deployment/Frontend-Backend-Concepts.md",
-    "DevOps-Mastery/10-Deployment/Framework-Deployment-Guide.md",
-    "DevOps-Mastery/10-Deployment/Flask-MongoDB-Project.md",
-    "DevOps-Mastery/10-Deployment/Deployment-Debugging.md",
+    "DevOps-Mastery/07-CICD/Jenkins-CICD-Notes.md",
+    "DevOps-Mastery/05-Kubernetes/EKS-Fargate-IRSA-ALB-Project.md.md",
+    "DevOps-Mastery/07-CICD/GitHub-Actions-Pipeline.md",
+    "DevOps-Mastery/07-CICD/GitHub-Actions.md",
+    "DevOps-Mastery/11-Azure/Azure Mastery.md",
+    "DevOps-Mastery/12-GCP/GCP Mastery.md",
+    "DevOps-Mastery/12-GCP",
+    "Azure Mastery.md",
+    "DevOps-Mastery/11-Azure",
+    "DevOps-Mastery/06-AWS/AWS Mastery — Complete DevOps Notes.md",
+    "DevOps-Mastery/06-AWS/AWS-Core-Services.md",
+    "DevOps-Mastery/06-AWS/AWS-Deployment-Notes.md",
     "DevOps-Mastery/04-Docker/Docker-Compose-Deep-Dive.md",
-    "DevOps-Mastery/04-Docker/Docker-Core-Concepts.md",
+    "DevOps-Mastery/04-Docker/Docker-Compose.md",
     "DevOps-Mastery/04-Docker/Docker-Architecture.md",
-    "DevOps-Mastery/04-Docker/Docker-Storage.md",
-    "DevOps-Mastery/10-Deployment/Process-Management.md",
-    "DevOps-Mastery/09-Monitoring/Prometheus-Grafana.md",
-    "DevOps-Mastery/09-Monitoring/Labs/Monitoring-Lab.md",
-    "DevOps-Mastery/08-Terraform/Terraform.md",
-    "DevOps-Mastery/08-Terraform/Terraform-Core-Concepts.md",
-    "DevOps-Mastery/08-Terraform/Labs/Terraform-AWS-Lab.md",
-    "DevOps-Mastery/07-CICD/Labs/Taskmanager-CICD-Lab.md",
+    "DevOps-Mastery/05-Kubernetes/Kubernetes-Core-Concepts.md",
+    "DevOps-Mastery/05-Kubernetes/Kubernetes-Manifests-Lab.md",
+    "DevOps-Mastery/05-Kubernetes/K8s-Deployment-Notes.md",
+    "DevOps-Mastery/01-Linux-Bash/Labs/Health-Check-Script.md",
+    "DevOps-Mastery/01-Linux-Bash/Log-parsing.md",
+    "DevOps-Mastery/01-Linux-Bash/Cron-Jobs.md",
+    "DevOps-Mastery/01-Linux-Bash/Bash-Strict-Mode.md",
+    "DevOps-Mastery/01-Linux-Bash/07-Linux-Performance-Troubleshooting.md.md",
+    "DevOps-Mastery/01-Linux-Bash/06-Shell-Scripting.md.md",
+    "DevOps-Mastery/01-Linux-Bash/05-Linux-Networking-Commands.md.md",
+    "DevOps-Mastery/01-Linux-Bash/04-Linux-Core-Concepts.md.md",
+    "DevOps-Mastery/00-Index/Dashboard.md",
+    "DevOps-Mastery/00-Fundamentals/01-SDLC.md.md",
+    "DevOps-Mastery/00-Fundamentals",
     "DevOps-Mastery.zip",
     "DevOps-Mastery/10-Deployment",
     "Untitled.canvas",
@@ -220,8 +222,6 @@
     "02-Python-DevOps",
     "04-Docker/Labs",
     "04-Docker",
-    "01-Linux-Bash",
-    "DevOps-Mastery/09-Monitoring/Labs",
     "DevOps-Mastery/01-Linux-Bash/Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",

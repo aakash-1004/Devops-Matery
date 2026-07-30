@@ -110,6 +110,6 @@ In a real MNC DevOps role, you'll receive infrastructure requirements from the S
 
 ## Wikilinks
 
-- [[What-is-DevOps]]
+- [[Azure Mastery]]
 - [[CI-CD-GitHub-Actions]]
 - [[IaC-Terraform]]

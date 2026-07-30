@@ -1,4 +1,4 @@
-# Linux — Performance & Troubleshooting
+                                                                # Linux — Performance & Troubleshooting
 
 **Tags:** #linux #performance #troubleshooting #monitoring #interview **Status:** ✅ Understood **Interview Relevance:** 🔴 High — troubleshooting scenario questions are standard in DevOps interviews
 

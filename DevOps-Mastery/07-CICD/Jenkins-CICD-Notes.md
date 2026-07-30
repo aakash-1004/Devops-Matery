@@ -1,4 +1,4 @@
-# Jenkins CI/CD — Automated Deployment Pipeline
+																# Jenkins CI/CD — Automated Deployment Pipeline
 
 **Tags:** #jenkins #cicd #github #webhooks #pm2 #gunicorn #ec2 #automation #project **Status:** ✅ Completed **Interview Relevance:** 🔴 High — CI/CD pipelines are tested in every DevOps interview **GitHub Flask:** `github.com/aakash-1004/flask-mongo-app` **GitHub Express:** `github.com/aakash-1004/fullstack-docker` **Related:** [[AWS-Deployment-Notes]] [[Terraform-Notes]] [[Docker-Core-Concepts]]
 

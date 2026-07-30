@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Mastery/05-Kubernetes/EKS-Fargate-IRSA-ALB-Project.md.md",
-                "mode": "preview",
+                "file": "DevOps-Mastery/Devops master revision.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EKS-Fargate-IRSA-ALB-Project.md"
+              "title": "Devops master revision"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5026054382324
+    "width": 461.50152587890625
   },
   "right": {
     "id": "b46830a02dc1a09f",
@@ -183,10 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "283ca20b1fbb4af4",
+  "active": "1b52952b5c3815d1",
   "lastOpenFiles": [
-    "DevOps-Mastery/07-CICD/Jenkins-CICD-Notes.md",
+    "DevOps-Mastery/07-CICD/Labs/GoWebApp-Full-GitOps-Pipeline.md.md",
     "DevOps-Mastery/05-Kubernetes/EKS-Fargate-IRSA-ALB-Project.md.md",
+    "DevOps-Mastery/07-CICD/Jenkins-CICD-Notes.md",
     "DevOps-Mastery/07-CICD/GitHub-Actions-Pipeline.md",
     "DevOps-Mastery/07-CICD/GitHub-Actions.md",
     "DevOps-Mastery/11-Azure/Azure Mastery.md",
@@ -212,7 +213,6 @@
     "DevOps-Mastery/01-Linux-Bash/05-Linux-Networking-Commands.md.md",
     "DevOps-Mastery/01-Linux-Bash/04-Linux-Core-Concepts.md.md",
     "DevOps-Mastery/00-Index/Dashboard.md",
-    "DevOps-Mastery/00-Fundamentals/01-SDLC.md.md",
     "DevOps-Mastery/00-Fundamentals",
     "DevOps-Mastery.zip",
     "DevOps-Mastery/10-Deployment",
